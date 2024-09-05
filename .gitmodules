@@ -1,0 +1,21 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/logosrhema01/mlab-client
+[submodule "server"]
+	path = server
+	url = https://github.com/logosrhema01/mlab-server
+[submodule "pymlab"]
+	path = pymlab
+	url = https://github.com/logosrhema01/mlab-pylib
+[submodule "cog"]
+	path = cog
+	url = https://github.com/logosrhema01/mlab-cog
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/logosrhema01/mlab-gateway
+[submodule "pyprotos"]
+	path = pyprotos
+	url = https://github.com/logosrhema01/mlab-pyprotos
+[submodule "runner"]
+	path = runner
+	url = https://github.com/logosrhema01/mlab-runner
